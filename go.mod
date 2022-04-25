@@ -1,6 +1,6 @@
-module github.com/jackskj/carta
+module github.com/blingtech/GoSqlReadMapper
 
-go 1.14
+go 1.17
 
 require (
 	github.com/Masterminds/goutils v1.1.0 // indirect
